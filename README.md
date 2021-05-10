@@ -27,4 +27,4 @@ operates and trades on the Binance Smart Chain.
 | Ticker | LMX |
 | Decimals | 18 |
 | QR code  | <img src="docs/0x720e02FDa21C2d632A8747c70F5D9EA049521932.png" height="128" />  |
-| Logo | <img src="docs/LamdaX Token 500.png" height="128" |
+| Logo | <img src="docs/LamdaX Token 500.png" height="128" /> |
