@@ -28,3 +28,4 @@ operates and trades on the Binance Smart Chain.
 | Decimals | 18 |
 | QR code  | <img src="docs/0x720e02FDa21C2d632A8747c70F5D9EA049521932.png" height="128" />  |
 | Logo | <img src="docs/LamdaX Token 500.png" height="128" /> |
+| Contract | [Link](https://bscscan.com/address/0x720e02fda21c2d632a8747c70f5d9ea049521932#code) |
